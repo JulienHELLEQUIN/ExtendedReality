@@ -4,12 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Teleport
+  - Projectile
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - test
   - Water
   - UI
   - Interactable
